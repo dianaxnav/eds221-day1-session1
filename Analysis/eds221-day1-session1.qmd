@@ -3,3 +3,11 @@ title: "eds221-day1-session1"
 format: html
 editor: visual
 ---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+energy2 <- read_csv("../data/us_energy.csv")
+```
