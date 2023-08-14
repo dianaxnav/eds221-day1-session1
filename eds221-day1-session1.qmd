@@ -1,0 +1,7 @@
+---
+title: "eds221-day1-session1"
+format: html
+editor: visual
+---
+
+New project :)
